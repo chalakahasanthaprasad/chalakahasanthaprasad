@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only"/>
 </p>
 <hr>
-<div id="header" align="center">
-  <img src="https://i.gifer.com/5364.gif"  width="100"/>
+<div align="center">
+  <img src="https://i.gifer.com/5364.gif" />
 </div>
 <br>
