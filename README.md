@@ -31,7 +31,7 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=chalakahasanthaprasad&show_icons=true&count_private=true&theme=radical"/></a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalakahasanthaprasad&layout=compact)]
 
