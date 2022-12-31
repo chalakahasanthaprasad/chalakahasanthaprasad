@@ -38,6 +38,6 @@
 </p>
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" height="80" width="50" />
+  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="80" width="50" />
 </div>
 <br>
