@@ -29,6 +29,9 @@
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&theme=tokyonight"/></a>
 </p>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=chalakahasanthaprasad&show_icons=true&theme=radical"/></a>
+</p>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/chalakahasanthaprasad/github-readme-stats"/></a>
 </p>
 <br>
