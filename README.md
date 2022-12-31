@@ -6,8 +6,8 @@
 
 <h3 align="center">I am an undergraduate software engineer.<br> I like programming 💻 and I like to share my knowledge with everyone 🙂.</h3>
 
-<p align="center"> 🌱 I'm currently studying for a BSc degree in Computer Science </p> 
-<p align="center"> 👨‍🎓 Coventry University in United Kingdom </p>
+<p align="center"> 🌱 I'm currently studying for a BSc degree in Computer Science 
+<br> 👨‍🎓 Coventry University in United Kingdom </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" /> </p>
 
@@ -39,5 +39,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="100" width="100" />
 </div>
-
+<p> See ya!</p>
 <br>
