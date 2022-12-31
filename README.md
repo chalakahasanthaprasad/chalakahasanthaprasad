@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Hello%2C+Alien!+%F0%9F%91%8B;%F0%9F%91%89+I'm+Chalaka+Hasantha+%F0%9F%98%83;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=900&height=90&lines=Hello%2C+Alien!+%F0%9F%91%8B;%F0%9F%91%89+I'm+Chalaka+Hasantha+%F0%9F%98%83;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"  width="480" height="480"/>
@@ -39,5 +39,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="100" width="100" />
 </div>
-<p> See ya!</p>
+<p align="center"> See ya!</p>
 <br>
