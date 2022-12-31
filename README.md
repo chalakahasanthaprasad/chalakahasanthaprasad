@@ -38,4 +38,8 @@
 </p>
 <hr>
 <div class="tenor-gif-embed" data-postid="18425885" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skype-like-emoji-emoticon-facepalm-gif-18425885">Skype Like GIF</a>from <a href="https://tenor.com/search/skype-gifs">Skype GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Z9WQLSrsQKH3uBbiXq/giphy.gif"  width="100"/>
+</div>
 <br>
