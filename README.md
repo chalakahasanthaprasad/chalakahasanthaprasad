@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"  width="480" height="480"/>
 </div>
 
-<h3 align="center">I am an undergraduate software engineer.<br> I like programming 💻 and I like to share my knowledge with everyone 🙂.</h3>
+<h3 align="center">I am an undergraduate software engineer.<br> I like to do programming 💻 and I like to share my knowledge with everyone 🙂</h3>
 
 <p align="center"> 🌱 I'm currently studying for a BSc degree in Computer Science 
 <br> 👨‍🎓 Coventry University in United Kingdom </p>
