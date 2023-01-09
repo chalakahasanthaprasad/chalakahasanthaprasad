@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only"/>
 </p>
 <br>
 <div align="center">
