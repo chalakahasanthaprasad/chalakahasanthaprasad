@@ -19,8 +19,9 @@
 <a href="https://stackoverflow.com/users/20893337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20893337" height="30" width="40" /></a>
 </p>
 <br>
+<br>
 <h3 align="center">Languages and Tools</h3>
-
+<br>
 <!-- Back End Development -->
 <h4 align="center">Back End Development</h4>
 <div align="center">
@@ -43,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
   </a>
 </div>
-
+<br>
 <!-- Front End Development -->
 <h4 align="center">Front End Development</h4>
 <div align="center">
@@ -63,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
   </a>
 </div>
-
+<br>
 <!-- Database -->
 <h4 align="center">Database</h4>
 <div align="center">
@@ -86,7 +87,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-s3.svg" alt="amazon s3" width="50" height="50"/>
   </a>
 </div>
-
+<br>
 <!-- Version Control Systems -->
 <h4 align="center">Version Control Systems</h4>
 <div align="center">
@@ -100,12 +101,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
   </a>
 </div>
-
+<br>
 <!-- Agile Methodology Tools -->
 <h4 align="center">Agile Methodology Tools</h4>
 <div align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg](https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="jira" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
   </a>
 </div>
 
