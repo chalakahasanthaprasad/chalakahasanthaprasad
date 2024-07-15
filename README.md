@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
@@ -114,7 +114,10 @@
 <h4 align="center">Miscellaneous</h4>
 <div align="center">
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="google colab" width="50" height="50"/>
+    <img src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" alt="google colab" width="50" height="50"/>
+  </a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
