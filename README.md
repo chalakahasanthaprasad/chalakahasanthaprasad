@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+    <img src="https://logowik.com/content/uploads/images/express-js1720895495.logowik.com.webp" alt="express" width="50" height="50"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="50" height="50"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
@@ -84,7 +84,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50"/>
   </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-s3.svg" alt="amazon s3" width="50" height="50"/>
+    <img src="https://www.svgrepo.com/show/349587/amazon-s3.svg" alt="amazon s3" width="50" height="50"/>
   </a>
 </div>
 <br>
@@ -114,7 +114,7 @@
 <h4 align="center">Miscellaneous</h4>
 <div align="center">
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/google-colaboratory6512.jpg" alt="google colab" width="50" height="50"/>
+    <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" alt="google colab" width="50" height="50"/>
   </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="50"/>
