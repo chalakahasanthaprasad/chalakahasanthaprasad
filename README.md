@@ -105,7 +105,7 @@
 <h4 align="center">Agile Methodology Tools</h4>
 <div align="center">
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg](https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="jira" width="50" height="50"/>
   </a>
 </div>
 
