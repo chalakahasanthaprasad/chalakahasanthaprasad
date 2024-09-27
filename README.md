@@ -10,9 +10,9 @@
 
 ---
 
+<h3 align="center">About Me</h3>
 <img align="right" alt="coding_img" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif" width=30%>
-
-<br><br>
+<br><br><br><br>
 - 🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.
 - 🌿 I'm a passionate <strong>Nature Enthusiast</strong>.
 - 🎮 I'm a <strong>Gamer at heart</strong>—always ready for a challenge!
