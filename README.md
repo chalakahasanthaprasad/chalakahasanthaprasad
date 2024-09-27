@@ -85,7 +85,6 @@
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="450"/>
 </p>
-<br>
 
 ---
 
