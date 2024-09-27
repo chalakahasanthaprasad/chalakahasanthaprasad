@@ -11,7 +11,6 @@
 ---
 
 <h3 align="center">About Me</h3>
-
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
     <ul>
