@@ -23,6 +23,7 @@
 - 🚀 Always learning new things.
 <br>
 <br>
+
 ---
 
 <h2 align="center">Languages and Tools</h2>
@@ -88,11 +89,11 @@
 ---
 
 <h3 align="center">Quote</h3>
-<p align="center" style="font-family: 'Courier New', monospace; color: #ffffff; background-color: #1e1e2f; padding: 20px; border-radius: 10px; border: 2px solid #7aa2f7;">
-    <strong style="font-size: 20px; color: #80ffea;"><em>"Computer programs are the most intricate, delicately balanced, and finely interwoven of all the products of human industry to date. 
-    They are machines with far more moving parts than any engine: the parts don't wear out, but they interact and rub up against one another in ways the programmers themselves cannot predict."</em></strong>
+<p align="center">
+    <strong>"Computer programs are the most intricate, delicately balanced, and finely interwoven of all the products of human industry to date. 
+    They are machines with far more moving parts than any engine: the parts don't wear out, but they interact and rub up against one another in ways the programmers themselves cannot predict."</strong>
     <br>
-    <span style="color: #f7768e;">— <strong><em>James Gleick</em></strong></span>
+    — <strong>James Gleick</strong>
 </p>
 
 ----
