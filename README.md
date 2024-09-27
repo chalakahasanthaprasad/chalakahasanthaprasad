@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" />
 </p>
 
----
+
 
 <h3 align="center">About Me</h3>
 
@@ -24,7 +24,7 @@
 <br>
 <br>
 
----
+
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
----
+
 
 <h3 align="center">GitHub Activity & Contributions Overview</h3>
 <p align="center">
@@ -96,7 +96,7 @@
     — <strong>James Gleick</strong>
 </p>
 
-----
+
 
 <h3 align="center" style="color: #80ffea; font-family: 'Courier New', monospace;">Connect with Me</h3>
 <p align="center"> 
