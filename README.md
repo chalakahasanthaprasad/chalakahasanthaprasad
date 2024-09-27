@@ -11,17 +11,21 @@
 ---
 
 <h3 align="center">About Me</h3>
-<div align="center">
-  <img alt="coding_img" width="300" height="200" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 20px; max-width: 400px;">
+    <ul>
+      <li>🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.</li>
+      <li>🌿 I'm a passionate <strong>Nature Enthusiast</strong>.</li>
+      <li>🎮 I'm a <strong>Gamer at heart</strong>—always ready for a challenge!</li>
+      <li>🐳 Currently learning <strong>Docker</strong> to enhance my development skills.</li>
+      <li>💬 Ask me about <strong>PHP</strong>, <strong>.NET</strong>, and <strong>JS</strong>.</li>
+    </ul>
+  </div>
+  <div>
+    <img align="center" alt="coding_img" width="80%" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
+  </div>
 </div>
 
-<ul>
-  <li>🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.</li>
-  <li>🌿 I'm a passionate <strong>Nature Enthusiast</strong>.</li>
-  <li>🎮 I'm a <strong>Gamer at heart</strong>—always ready for a challenge!</li>
-  <li>🐳 Currently learning <strong>Docker</strong> to enhance my development skills.</li>
-  <li>💬 Ask me about <strong>PHP</strong>, <strong>.NET</strong>, and <strong>JS</strong>.</li>
-</ul>
 
 ---
 
