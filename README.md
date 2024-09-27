@@ -56,14 +56,14 @@
     <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
 </p>
 
-<h3 align="center">Version Control Systems</h3>
+<h4 align="center">Version Control Systems</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
 </p>
 
-<h3 align="center">Miscellaneous</h3>
+<h4 align="center">Miscellaneous</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab"/>
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
@@ -75,15 +75,20 @@
 ---
 
 <h3 align="center">GitHub Activity & Contributions Overview</h3>
-<p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="500"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="500"/>
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
@@ -102,13 +107,13 @@
 <p align="center"> 
   <a href="https://x.com/chalakahasantha">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/chalaka-hasantha-prasad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   <a href="https://stackoverflow.com/users/20893337">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+  </a>&nbsp;
 </p>
 
 
