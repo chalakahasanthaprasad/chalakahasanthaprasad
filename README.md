@@ -11,7 +11,7 @@
 ---
 
 <h3 align="center">About Me</h3>
-<div style="display:flex">
+<div>
   <img align="right" alt="coding_img" width="380" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
     <ul>
     <li>🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.</li>
@@ -76,11 +76,9 @@
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="350"/>
 </p>
-
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
 </p>
-
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350"/>
 </p>
