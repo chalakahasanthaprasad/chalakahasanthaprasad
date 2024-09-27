@@ -1,14 +1,15 @@
 <img src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/background.jpeg" alt="Background Image" width="1600" height="480">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chalaka Hasantha</h1>
 <h3 align="center">
-    👨‍💻 I'm a passionate full-stack developer from Sri Lanka with a strong enthusiasm for software development since childhood.
+    👨‍💻 I'm a passionate full-stack developer from Sri Lanka with a strong enthusiasm for software development since childhood
 </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" />
 </p>
+<br>
 
-
+---
 
 <h3 align="center">About Me</h3>
 
@@ -23,8 +24,9 @@
 - 🚀 Always learning new things.
 <br>
 <br>
+<br>
 
-
+---
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -72,8 +74,9 @@
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
+<br>
 
-
+---
 
 <h3 align="center">GitHub Activity & Contributions Overview</h3>
 <p align="center">
@@ -85,8 +88,9 @@
 <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350"/>
 </p>
+<br>
 
-<hr>
+---
 
 <h3 align="center">Quote</h3>
 <p align="center">
@@ -95,8 +99,9 @@
     <br>
     — <strong>James Gleick</strong>
 </p>
+<br>
 
-
+---
 
 <h3 align="center" style="color: #80ffea; font-family: 'Courier New', monospace;">Connect with Me</h3>
 <p align="center"> 
