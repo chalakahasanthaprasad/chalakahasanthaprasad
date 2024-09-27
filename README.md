@@ -76,29 +76,25 @@
 
 <h3 align="center">GitHub Activity & Contributions Overview</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="450"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="450"/>
+</p>
 <br>
 
 ---
 
 <h3 align="center">Quote</h3>
 <p align="center">
-    <strong>"Computer programs are the most intricate, delicately balanced, and finely interwoven of all the products of human industry to date. 
-    They are machines with far more moving parts than any engine: the parts don't wear out, but they interact and rub up against one another in ways the programmers themselves cannot predict."</strong>
+    <strong><i>"Computer programs are the most intricate, delicately balanced, and finely interwoven of all the products of human industry to date. 
+    They are machines with far more moving parts than any engine: the parts don't wear out, but they interact and rub up against one another in ways the programmers themselves cannot predict."</i></strong>
     <br>
-    — <strong>James Gleick</strong>
+    — <strong><i>James Gleick</i></strong>
 </p>
 
 ---
