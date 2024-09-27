@@ -12,7 +12,7 @@
 
 <h3 align="center">About Me</h3>
 <div>
-  <img align="right" alt="coding_img" width="380" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
+  <img align="right" alt="coding_img" width="380" height="300" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
     <ul>
     <li>🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.</li>
 	<li>🌿 I'm a passionate <strong>Nature Enthusiast</strong>.</li>
