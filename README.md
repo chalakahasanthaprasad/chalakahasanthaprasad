@@ -7,7 +7,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" />
 </p>
-<br>
 
 ---
 
@@ -24,13 +23,11 @@
 - 🚀 Always learning new things.
 <br>
 <br>
-<br>
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
-
-<h3 align="center">Back End Development</h3>
+<h3 align="center">Languages and Tools</h3>
+<h4 align="center">Back End Development</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -40,7 +37,7 @@
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
-<h3 align="center">Front End Development</h3>
+<h4 align="center">Front End Development</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -49,7 +46,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<h3 align="center">Database</h3>
+<h4 align="center">Database</h4>
 <p align="center">
     <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -74,19 +71,18 @@
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-<br>
 
 ---
 
 <h3 align="center">GitHub Activity & Contributions Overview</h3>
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="350"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="500"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="500"/>
 </p>
 <br>
 
@@ -99,21 +95,20 @@
     <br>
     — <strong>James Gleick</strong>
 </p>
-<br>
 
 ---
 
-<h3 align="center" style="color: #80ffea; font-family: 'Courier New', monospace;">Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center"> 
   <a href="https://x.com/chalakahasantha">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
-  </a>&nbsp;
+  </a>
   <a href="https://linkedin.com/in/chalaka-hasantha-prasad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+  </a>
   <a href="https://stackoverflow.com/users/20893337">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>&nbsp;
+  </a>
 </p>
 
 
