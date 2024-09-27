@@ -1,160 +1,118 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=900&height=90&lines=Hello%2C+Alien!+%F0%9F%91%8B;%F0%9F%91%89+I'm+Chalaka+Hasantha+%F0%9F%98%83;Welcome+to+my+GitHub+Profile" alt="Typing SVG" /></a>
+<img src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/background.jpeg" alt="Background Image" width="1600" height="480">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Chalaka Hasantha</h1>
+<h3 align="center">
+    👨‍💻 I'm a passionate full-stack developer from Sri Lanka with a strong enthusiasm for software development since childhood.
+</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"  width="480" height="480"/>
-</div>
-
-<h3 align="center">I am an graduate software engineer.<br> I like to do programming 💻 and I like to share my knowledge with everyone 🙂</h3>
-
-<p align="center"> 🌱 BSc degree in Computer Science 
-<br> 👨‍🎓 Coventry University in United Kingdom </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" /> </p>
-
-<br>
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/chalakahasantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chalakahasantha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chalaka-hasantha-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalaka-hasantha-prasad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20893337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20893337" height="30" width="40" /></a>
+    <img src="https://komarev.com/ghpvc/?username=chalakahasanthaprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chalakahasanthaprasad" />
 </p>
-<br>
-<br>
-<h3 align="center">Languages and Tools</h3>
-<br>
-<!-- Back End Development -->
-<h4 align="center">Back End Development</h4>
-<div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/express-js1720895495.logowik.com.webp" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  </a>
-</div>
-<br>
-<!-- Front End Development -->
-<h4 align="center">Front End Development</h4>
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
-  </a>
-</div>
-<br>
-<!-- Database -->
-<h4 align="center">Database</h4>
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws rds" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349587/amazon-s3.svg" alt="amazon s3" width="50" height="50"/>
-  </a>
-</div>
-<br>
-<!-- Version Control Systems -->
-<h4 align="center">Version Control Systems</h4>
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="50" height="50"/>
-  </a>
-</div>
-<br>
-<!-- Agile Methodology Tools -->
-<h4 align="center">Agile Methodology Tools</h4>
-<div align="center">
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="50" height="50"/>
-  </a>
+
+---
+
+<h3 align="center">About Me</h3>
+
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://raw.githubusercontent.com/chalakahasanthaprasad/chalakahasanthaprasad/main/profile/code_boy.gif">
+    <ul>
+    <li>🌱 I have a <strong>BSc degree in Computing</strong> from <strong>Coventry University</strong>, United Kingdom.</li>
+	<li>🌿 I'm a passionate <strong>Nature Enthusiast</strong>.</li>
+    <li>🎮 I'm a <strong>Gamer at heart</strong>—always ready for a challenge!</li>
+	<li>🐳 Currently learning <strong>Docker</strong> to enhance my development skills.</li>
+    <li>💬 Ask me about <strong>PHP</strong>, <strong>.NET</strong>, and <strong>JS</strong>.</li>
+  </ul>
 </div>
 
-<!-- Miscellaneous -->
-<h4 align="center">Miscellaneous</h4>
-<div align="center">
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" alt="google colab" width="50" height="50"/>
-  </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-</div>
+---
 
-<!-- Soft Skills -->
-<h4 align="center">Soft Skills</h4>
-<div align="center">
-  <p>Team player • Sharp Coding • Deliver results • Quick learner</p>
-</div>
+<h2 align="center">Languages and Tools</h2>
 
-<br>
-
-<br>
-
-<h3 align="center">My Stats</h3>
+<h3 align="center">Back End Development</h3>
 <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight"/>
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+<h3 align="center">Front End Development</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white" alt="AWS RDS"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+</p>
+
+<h3 align="center">Version Control Systems</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
+
+<h3 align="center">Miscellaneous</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+<h3 align="center">GitHub Activity & Contributions Overview</h3>
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chalakahasanthaprasad&count_private=true&theme=tokyonight" alt="Streak Stats" width="350"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chalakahasanthaprasad&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="350"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chalakahasanthaprasad&count_private=true&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350"/>
 </p>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" height="100" width="100" />
-</div>
-<p align="center"> See ya!</p>
-<br>
+
+---
+
+<h3 align="center">Quote</h3>
+<p align="center" style="font-family: 'Courier New', monospace; color: #ffffff; background-color: #1e1e2f; padding: 20px; border-radius: 10px; border: 2px solid #7aa2f7;">
+    <strong style="font-size: 20px; color: #80ffea;"><em>"Computer programs are the most intricate, delicately balanced, and finely interwoven of all the products of human industry to date. 
+    They are machines with far more moving parts than any engine: the parts don't wear out, but they interact and rub up against one another in ways the programmers themselves cannot predict."</em></strong>
+    <br>
+    <span style="color: #f7768e;">— <strong><em>James Gleick</em></strong></span>
+</p>
+
+----
+
+<h3 align="center" style="color: #80ffea; font-family: 'Courier New', monospace;">Connect with Me</h3>
+<p align="center"> 
+  <a href="https://x.com/chalakahasantha">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/chalaka-hasantha-prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/20893337">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>&nbsp;
+</p>
+
+---
+
+
+
