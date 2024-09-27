@@ -25,7 +25,6 @@
 ---
 
 <h2 align="center">Languages and Tools</h2>
-
 <h3 align="center">Back End Development</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
@@ -110,8 +109,5 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>&nbsp;
 </p>
-
----
-
 
 
